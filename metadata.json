@@ -1,0 +1,6 @@
+{
+  "name": "SubSonic",
+  "description": "High-fidelity music player featuring advanced deep bass, physical subwoofer virtualization, Dolby DTS Atmos 3D spatial soundscapes, dynamic Bluetooth codec switcher, and lossless high-resolution audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
